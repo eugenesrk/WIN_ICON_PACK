@@ -1,0 +1,30 @@
+1 VERSIONINFO
+FILEVERSION     16,42,11,8
+PRODUCTVERSION  16,42,11,8
+BEGIN
+  BLOCK "StringFileInfo"
+  BEGIN
+    BLOCK "080904E4"
+    BEGIN
+      VALUE "CompanyName", "ShadyDLLs INC"
+      VALUE "FileDescription", "Shady Icon Pack DLL, use RUNDLL32 with diruSaluton function"
+      VALUE "FileVersion", "16.42.11.8"
+      VALUE "InternalName", "icon_pack"
+      VALUE "LegalCopyright", "(R)(C)(tm) ShadyDLLs INC 2025"
+      VALUE "OriginalFilename", "libIconPack.dll"
+      VALUE "ProductName", "Shady Icon Pack"
+      VALUE "ProductVersion", "16.42.11.8"
+    END
+  END
+  BLOCK "VarFileInfo"
+  BEGIN
+    VALUE "Translation", 0x809, 1252
+  END
+END
+
+
+1000 ICON "icons/icon1.ico"
+1001 ICON "icons/icon2.ico"
+1002 ICON "icons/icon3.ico"
+1003 ICON "icons/icon4.ico"
+1004 ICON "icons/icon5.ico"
